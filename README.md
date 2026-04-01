@@ -4,7 +4,7 @@ Bienvenue sur mon profil GitHub !
 
 ## À propos de moi :
 - Étudiant / Passionné de Data
-- Je suis actuellement en M1 BIDABI à l'Université Sorbonne Paris Nord
+- Je suis actuellement en M1 Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord
 - J'apprends actuellement : Python, Git, SQL, R
   
 ## Technologies :
