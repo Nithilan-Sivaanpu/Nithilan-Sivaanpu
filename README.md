@@ -1,5 +1,18 @@
-## Hi there 👋
+# Bonjour, je suis SIVAANPU Nithilan
 
+Bienvenue sur mon profil GitHub !
+
+## À propos de moi :
+- Étudiant / Passionné de Data
+- Je suis actuellement en M1 BIDABI à l'Université Sorbonne Paris Nord
+- J'apprends actuellement : Python, Git, SQL, R
+  
+## Technologies :
+- Langages : Python, R, SQL
+- Outils : Git, Docker, VS Code
+
+## Me contacter :
+- Email : nithilan.sivaanpu@gmail.com
 <!--
 **Nithilan-Sivaanpu/Nithilan-Sivaanpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
